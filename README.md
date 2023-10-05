@@ -1,0 +1,2 @@
+# wpTest
+webpack test
